@@ -1,7 +1,7 @@
 const Dashboard = () => {
   return (
     <div className="p-6">
-      456
+      456 123
       <h1 className="text-2xl font-bold mb-4">📊 儀表板</h1>
       {/* <div
         className="
