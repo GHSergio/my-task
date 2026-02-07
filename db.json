@@ -22,7 +22,7 @@
       "projectId": "c1PVTk0",
       "title": "React核心觀念",
       "dueDate": "2025-03-10",
-      "completed": true,
+      "completed": false,
       "id": 1,
       "order": 0
     },
@@ -38,7 +38,7 @@
       "projectId": "c1PVTk0",
       "title": "React Query & useMutation",
       "dueDate": "2025-03-11",
-      "completed": true,
+      "completed": false,
       "id": 3,
       "order": 1
     },
